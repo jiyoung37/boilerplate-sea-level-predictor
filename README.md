@@ -11,3 +11,5 @@ Analysis:
 - Communicated uncertainty using two regression lines (historic and recent trends)
 
 Key Skills: Time series analysis, linear regression, data visualization, predictive modeling
+
+!C:\Users\europ\Documents\Github_clone\boilerplate-sea-level-predictor\sea_level_plot.png
