@@ -1,4 +1,4 @@
-# boilerplate-sea-level-predictor
+# Sea Level Predictor
 freeCodeCamp_Data Analysis with Python_Project 
 
 Tools: Python, Pandas, Matplotlib
