@@ -12,4 +12,4 @@ Analysis:
 
 Key Skills: Time series analysis, linear regression, data visualization, predictive modeling
 
-!(sea_level_plot.png)
+![Sea level plot](sea_level_plot.png)
